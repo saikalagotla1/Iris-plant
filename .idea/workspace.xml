@@ -2,19 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8299200b-2dce-481b-a79e-0f8b887ea0b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TrainModel/TrainAndPredict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrainModel/Graphing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrainModel/IT.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrainModel/ITestLabels.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IrisTestData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iris.names" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/irisData.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readData.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainModel/IrisTestLabels.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TrainModel/IrisTestLabels.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainModel/IrisTrainingFeatureList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TrainModel/IrisTrainingFeatureList.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainModel/TrainAndPredict.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrainModel/TrainAndPredict.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,7 +78,10 @@
       <workItem from="1584466317638" duration="445000" />
       <workItem from="1584466789799" duration="54000" />
       <workItem from="1584466909057" duration="5842000" />
-      <workItem from="1584483234628" duration="1631000" />
+      <workItem from="1584483234628" duration="1765000" />
+      <workItem from="1584818872062" duration="642000" />
+      <workItem from="1584819787399" duration="657000" />
+      <workItem from="1584838073745" duration="3434000" />
     </task>
     <servers />
   </component>
