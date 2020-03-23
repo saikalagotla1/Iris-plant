@@ -3,13 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8299200b-2dce-481b-a79e-0f8b887ea0b2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainModel/IT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainModel/ITestLabels.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/TrainModel/IrisSvm.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrainModel/IrisSvm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainModel/IrisTrainingFeatureList.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainModel/IrisTrainingFeature.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/TrainModel/TrainAndPredict.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrainModel/TrainAndPredict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainModel/irisTrainingData.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readOrganizeData/readData.py" beforeDir="false" afterPath="$PROJECT_DIR$/readOrganizeData/readData.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +79,7 @@
       <workItem from="1584818872062" duration="642000" />
       <workItem from="1584819787399" duration="657000" />
       <workItem from="1584838073745" duration="3434000" />
-      <workItem from="1584982313914" duration="863000" />
+      <workItem from="1584982313914" duration="2486000" />
     </task>
     <servers />
   </component>
