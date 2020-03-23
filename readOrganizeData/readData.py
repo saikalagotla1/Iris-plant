@@ -6,7 +6,6 @@ import sklearn
 import numpy
 import csv
 
-
 def readLabels(filename):
     ifile = open(filename, "rU")
     reader = csv.reader(ifile, delimiter=",")
