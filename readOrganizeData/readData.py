@@ -6,24 +6,6 @@ import sklearn
 import numpy
 import csv
 
-def readLabels(filename):
-    ifile = open(filename, "rU")
-    reader = csv.reader(ifile, delimiter=",")
-
-    rownum = 0
-    labels = []
-
-    for row in reader:
-        labels.append(row)
-        rownum += 1
-
-    ifile.close()
-    labels = numpy.delete(labels, 0, 1)
-    labels = numpy.delete(labels, 0, 1)
-    labels = numpy.delete(labels, 0, 1)
-    labels = numpy.delete(labels, 0, 1)
-    return labels
-
 def readcsv(filename):
     ifile = open(filename, "rU")
     reader = csv.reader(ifile, delimiter=",")
